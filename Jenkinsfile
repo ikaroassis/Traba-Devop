@@ -1,3 +1,4 @@
-echo "Minha primeira integração automática com jenkins" 
-echo "Minha segunda integração automática com jenkins" 
-echo "Minha segunda integração automática com jenkins" 
+echo "Minha primeira integração automática" 
+echo "Minha segunda integração automática" 
+echo "Minha segunda integração automática" 
+echo "Minha segunda integração automática" 
